@@ -1,0 +1,34 @@
+Backend Development
+Can you explain the MVC (Model-View-Controller) architecture and how it applies to backend development?
+How do you manage dependencies in your backend projects?
+Describe how you would implement a RESTful API for a resource like Users. What endpoints would you create?
+Database
+How do you choose the type of database (SQL vs NoSQL) for a project?
+Can you explain the concept of ACID in the context of databases?
+Database Management System (DBMS)
+What are the responsibilities of a Database Management System?
+Describe the difference between DBMS and RDBMS.
+Data Languages in DBMS
+Can you explain the difference between DDL, DML, and DCL in SQL?
+Provide an example of a transaction using SQL.
+Introduction to Relational Database & MariaDB
+What are the advantages of using a relational database like MariaDB?
+How would you optimize a query in MariaDB?
+CRUD operations in MariaDB
+Can you write a SQL query to perform a Create, Read, Update, and Delete operation on a Products table?
+Describe a situation where you would use an UPSERT operation in MariaDB.
+Filtering and Sorting Query Results
+How do you filter results in a SQL query without affecting the actual data?
+Provide an example of a complex query involving multiple sorts and filters.
+Aggregation Function and Multi-table queries with JOINs
+Can you describe a scenario where you would use a LEFT JOIN instead of an INNER JOIN?
+Write a query that uses aggregation functions to summarize data from multiple tables.
+Database Design, Lifecycle, Database Schema, and Normalisation
+Can you explain the different normal forms in database design?
+How do you approach designing a new database schema for a project?
+Database Transaction
+What is a database transaction and how do you handle them in your applications?
+Can you explain the concept of transaction isolation levels?
+ER Diagram
+How do you represent a many-to-many relationship in an ER diagram?
+Can you describe the process of converting an ER diagram into a relational database schema?
