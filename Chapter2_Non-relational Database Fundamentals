@@ -1,0 +1,65 @@
+MongoDB
+
+What is MongoDB and what are its key features?
+How does MongoDB differ from traditional relational databases?
+Can you explain MongoDB's document-oriented storage approach?
+
+MongoDB Compass
+
+What is MongoDB Compass and how is it used in managing MongoDB databases?
+Can you demonstrate how to connect to a database using MongoDB Compass?
+Describe some key features and benefits of using MongoDB Compass.
+
+Collections in MongoDB
+
+What is a collection in MongoDB and how does it compare to tables in SQL databases?
+How do you create, update, or delete a collection in MongoDB?
+Explain how MongoDB stores data in collections.
+
+Querying in MongoDB
+
+How do you perform a basic query in MongoDB?
+Can you explain the use of operators like $gt, $lt, and $eq in MongoDB queries?
+How would you write a MongoDB query to find documents based on multiple criteria?
+
+Importing & Exporting Data
+
+How do you import data into MongoDB? Can you explain the process using an example?
+What tools or commands are used for exporting data from MongoDB?
+Are there any best practices to follow when importing or exporting large datasets in MongoDB?
+
+Querying Data in MongoDB
+
+Describe the process of querying nested documents in MongoDB.
+How do you perform a text search in MongoDB?
+Can you explain the concept of query projection in MongoDB?
+
+Documents in MongoDB
+
+What is a document in MongoDB and how does it differ from a record in SQL databases?
+How are data types handled in MongoDB documents?
+Explain how to update specific fields in a document in MongoDB.
+
+Advanced CRUD Operations
+
+Describe an advanced Create, Read, Update, Delete (CRUD) operation in MongoDB.
+How do you handle bulk operations in MongoDB?
+Can you discuss the use of upserts in MongoDB?
+
+MongoDB and Pagination
+
+Explain how pagination can be implemented in MongoDB.
+What are the challenges of paginating large datasets in MongoDB and how can they be addressed?
+How does the limit() and skip() method work in MongoDB for pagination?
+
+Indexes in MongoDB
+
+What is the purpose of indexing in MongoDB?
+How do you create and manage indexes in MongoDB?
+Discuss the impact of indexes on MongoDB's performance.
+
+Aggregation Operations
+
+What are aggregation operations in MongoDB and why are they important?
+Can you describe a scenario where you would use the aggregation pipeline in MongoDB?
+Explain the difference between $group and $sort in MongoDB's aggregation framework.
