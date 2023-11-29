@@ -1,0 +1,66 @@
+HTTP Basics
+What are the main HTTP methods and what do they do?
+Can you explain the difference between GET and POST methods?
+What is an HTTP status code? Give examples of status codes from different ranges.
+RESTful Architecture
+What are the key principles of RESTful architecture?
+How does REST differ from SOAP?
+Can you provide an example of a RESTful API endpoint and explain its components?
+API Design Principles
+What are the best practices for designing a scalable API?
+How do you handle versioning in APIs?
+What considerations are important for API pagination?
+API Documentation
+Why is API documentation important?
+What tools do you use for creating API documentation?
+How do you ensure that your API documentation stays up to date with your API?
+Authentication and Authorization
+What is the difference between authentication and authorization in the context of APIs?
+How do you implement token-based authentication?
+What are OAuth and JWT, and how are they used in APIs?
+API Testing
+What are the different types of API testing?
+How do you test for API performance and security?
+What tools do you prefer for API testing and why?
+NodeJS
+What are the core features of Node.js?
+How does Node.js handle asynchronous operations?
+What are some common uses of Node.js in building web applications?
+Node Modules
+What is a Node module and how do you create one?
+Can you explain how module.exports and require work in Node.js?
+What is the difference between local and global modules in Node.js?
+npm Modules
+What is npm and what is it used for in Node.js development?
+How do you manage package versions using npm?
+What is the purpose of the package-lock.json file?
+Buffer, URL
+What is a Buffer in Node.js and when do you use it?
+How do you parse and construct URLs in Node.js?
+Nodemon
+What is Nodemon and why is it useful in Node.js development?
+Debugging
+What techniques do you use for debugging Node.js applications?
+How do you use the Node.js debugger?
+API, ExpressJS Routing
+How do you define routes in Express.js?
+What is middleware in the context of Express.js and how do you use it?
+HTTP Server
+How do you create an HTTP server in Node.js?
+What are the key considerations when deploying a Node.js HTTP server?
+API Testing with Postman
+How do you use Postman for API testing?
+What are some advanced features of Postman that you find useful?
+Middleware
+Can you explain the concept of middleware in Express.js with examples?
+How do you handle errors in middleware?
+Environment Variables
+What are environment variables and how are they used in a Node.js application?
+How do you securely manage environment variables in your projects?
+Error Handling in Express.js
+What are some common error handling patterns in Express.js?
+How do you ensure that your Express.js app gracefully handles unexpected errors?
+Render, Features, Deployment
+What does the 'render' method do in Express.js?
+Can you describe the key features and benefits of Render as a deployment platform?
+What are the steps to deploy a Node.js project using Render?
