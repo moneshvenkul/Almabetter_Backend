@@ -25,10 +25,6 @@ app.get('/hello', (req, res) => {
 
 
 
-app.get('/pets', (req, res) => {
-res.send('Hello, pets!');
-});
-
 app.get('/products/:id', function(req, res) {
     const productId = req.params.id
     res.send(`Product ID: ${productId}`)
@@ -73,3 +69,9 @@ app.get('/products/:id', function(req, res) {
 
 
 app.listen(3000, () => console.log('Server started on port 3000'));
+
+
+
+
+
+// I am adding this newly this will appear in green color
